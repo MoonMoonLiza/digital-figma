@@ -1,0 +1,1035 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*header start*/
+     header {
+	    padding:15px 0 !important;
+	    background-color:#F9FCFF;
+	  }
+	  .logo {
+        margin: 0 !important;
+      }
+	   .menu ul {
+          margin: 0 !important;
+          padding: 0;
+	    }
+	  .menu ul li a{
+	   	padding: 12px 0 0 20px!important;
+	   	font-size: 16px;
+	   	text-align: left;
+	   }
+
+	  .s_h {
+      margin-top: 0 !important;
+      padding-left: 20px;    
+     }
+
+     .s_b {
+      margin-top: 28px !important;
+     }
+     .search {
+       margin: 20px 0 0 8px !important;
+      }
+	/*header end*/
+	/*banner start*/
+     .banner {
+      padding: 0 12px;
+    }
+     .b_img {
+       margin: 20px 0px !important;
+       padding: 0 45px;
+     }
+     .b_cont {
+       margin: 70px 0 15px 0 !important;
+       text-align: center;
+     }
+     .b_h1 {
+       font-size: 30px;
+       line-height: 36px;
+      }
+      .b_p {
+       margin: 10px 0;
+       font-size: 16px;
+       line-height: 24px;
+    }
+     .p_submit {
+       padding: 10px 50px;
+       margin: 0 0 5px 0;
+    }
+    .w_submit {
+       padding: 10px 60px;
+     }
+    .c_submit {
+      font-size: 20px;
+      font-weight: 600;
+     }
+	/*banner end*/
+  /*feature start*/
+    .c_p {
+      padding: 40px 0;
+    }
+    .f_pc {
+    padding: 0;
+   }
+    .cho_img {
+      padding: 0 0px;
+    }
+    .c_comh {
+      font-size: 20px;
+      font-weight: 600;
+    }
+    .f_item {
+      padding: 0 30px !important;
+   }
+   .f_icon img {
+      margin: 0 auto;
+      margin: 10px 0;
+    }
+    .f_th {
+      margin: 0;
+      padding-left: 30px;
+      font-size: 20px;
+     
+
+    }
+    .f_text h2 {
+     margin: 0 ;
+     font-size: 20px;
+   }
+    .f_text p {
+      margin: 10px !important;
+      padding: 0 20px !important;
+      font-size: 16px;
+      line-height: 25px;
+      
+    }
+    .f_3 {
+      margin: 0 52px !important;
+    }
+    .f_item {
+      margin-bottom: 10px;
+      padding-bottom: 10px !important;  
+    } 
+    .fea_p {
+    margin-bottom: 40px !important;
+   }
+  /*feature end*/
+  /*about  start*/
+    .a_img {
+      padding-right: 0px;
+     }
+    .a_women {
+      height: 200px;
+    }
+    .a_text{
+      padding: 0;
+    }
+    .a_f4 {
+    padding: 10px 0 0 12px;
+    }
+    .c_comh {
+      text-align: center;
+    }
+    .about_h {
+      margin: 10px 0 10px;
+    }
+    .about_p{
+     margin: 10px 0;
+     padding: 0 12px;
+     font-size: 16px;
+     text-align: center;
+     line-height: 24px;
+    }
+    .a_submit {
+     margin: 10px 59px;
+     padding: 10px 30px;
+    }
+    .a_count {
+    margin-top: 30px !important;
+    }
+    .a_ch {
+    margin: 12px 0 -10px;
+    font-size: 28px;
+    line-height: 45.8px;
+   }
+   .a_cp45 {
+    padding: 0 15px;
+   }
+  /*about  end*/
+  /*Our_Class  start*/
+    .frame5 {
+      padding:0px;
+    }
+    .o_c {
+     padding: 0 12px;
+    }
+    .our_r {
+      margin-bottom: 0 10px 40px !important;
+      margin-bottom: 40px !important;
+    }
+     .our_bh {
+      font-size: 16px;
+      line-height: 0px;
+     }
+     .our_bh1t {
+      padding: 0 26px;
+    }
+     .our_bh1 {
+      padding: 16px 23px !important;
+     }
+    .our_bh {
+      padding: 16PX 0px !important;
+    }
+    .our_bh2t {
+      padding: 0 10px;
+   }
+    .our_bh2 {
+      margin-right: 0px;
+      padding: 16px 17px !important;
+    }
+    .oc_ite_ss {
+    padding: 0 16px;
+    }
+    .oc_th {
+      padding: 10px 24px 12px !important;
+      font-size: 19px;
+      line-height: 33.6px;
+      text-align: left;
+   }
+   .lit {
+    margin: 0 !important;
+   }
+   .oct_footer {
+    margin: 0 24px 12px 24px;
+   }
+   .vac_submit {
+    padding: 17px 45px;
+    margin: 0 24px;
+   }
+  /*Our_Class  end*/
+  /*Testimonial start*/
+    .frame6 {
+      padding: 0 90px;
+    }
+    .tes_item {
+      margin: 0 0px 10px 0 !important;
+      padding: 12px;
+    }
+    .t_p {
+    margin-bottom: 5px;
+    line-height: 20.2px;
+   }
+   .t_text {
+    margin-top: 10px;
+    text-align: center;
+   }
+  /*Testimonial end*/
+  /*blog start*/
+   .Frame4 {
+    padding: 0 110px;
+   }
+   .tes_footer {
+    margin: 12px 0;
+   }
+   .tes_footer {
+    margin: 12px 0 5px;
+   }
+   .b_h2 {
+     margin-bottom: 40px !important;
+    }
+   .browse_item {
+    margin:16px 0px;
+   }
+   .blog_h2 {
+    padding: 10px 0px 12px !important;
+    font-size: 18px;
+    line-height: 22.6px;
+   }
+   .bf_3 {
+    margin-top: 15px !important;
+    margin: 0 45px !important;
+   }
+   .browse_submit {
+    margin: 0 24px 0 !important;
+   }
+   .bb_p {
+    padding-top: 40px;
+   }
+   .blog_frame3 {
+    margin: 0px 0px !important;
+   }
+  /*blog end*/
+  /*footer top start*/
+   .ft_box {
+     margin: 40px 0;
+   }
+    .ft_h1 {
+    padding-right:0px;
+    font-size: 19px;
+    line-height: 29.2px;
+    text-align: center;
+   }
+   .ft_box {
+    margin: 20px 0;
+   }
+   .ft_from {
+    margin-left: 28px;
+   }
+   .envel {
+    margin: 10px 0 10px 8px !important;
+   }
+   .ft_email {
+    margin: 12px 0 12px 8px !important;
+    padding: 0 0 0 4px;
+    width: 136px;
+   }
+   .ft_submit {
+    padding: 8px 10px;
+   }
+  /*footer top end*/
+  /*footer start*/
+    .ff_2mar {
+     margin-right: 0px;
+     text-align: center;
+    }
+   .ffc_h2 {
+    font-size: 19px;
+   }
+   .ff_box1 {
+    margin-bottom:20px !important;
+   }
+   .ff_logo {
+    text-align: center;
+   }
+   .ff_text {
+    margin:0px;
+    padding: 0 12px;
+    line-height: 28px;
+    text-align: center;
+   }
+   .ff_tl {
+    margin-right: 3.1px !important;
+   }
+   .ffsocial_h2 {
+    margin-top: 15px !important;
+    margin-left: 90px !important;
+    text-align: center;
+   }
+  /*footer end*/
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header start*/
+     header {
+      padding:25px 0;
+      background-color:#F9FCFF;
+    }
+    .logo {
+    margin:0!important;
+     }
+	   .menu ul {
+          margin: 0 !important;
+          padding: 0;
+	    }
+	  .menu ul li a{
+	   	padding: 12px 0 0 20px!important;
+	   	font-size: 16px;
+	   	text-align: left;
+	   }
+
+	  .s_h {
+      margin-top: 0 !important;
+      padding-left: 20px;    
+     }
+     .s_b {
+      margin-top: 28px !important;
+     }
+     .search {
+       margin: 20px 0 0 8px !important;
+      }
+	/*header end*/
+	/*banner start*/
+     .b_img {
+       margin: 20px 0px !important;
+       padding: 0 45px;
+     }
+     .b_cont {
+       margin:115px 0 20px !important;
+       text-align: center;
+     }
+     .b_h1 {
+       font-size: 30px;
+       line-height: 36px;
+      }
+      .b_p {
+       margin: 30px 0;
+       line-height:36px;
+    }
+      .b_but {
+        margin: 30px 0;
+      }
+     .p_submit {
+       padding: 10px 180px;
+       margin: 0 0 5px 0;
+    }
+    .w_submit {
+       padding: 10px 190px;
+     }
+    .c_submit {
+      font-size: 20px;
+      font-weight: 600;
+     }
+	/*banner end*/
+  /*feature start*/
+     .c_p {
+      padding: 40px 0;
+    }
+    .cho_img {
+     padding: 0 0 10px;
+    }
+    .c_comh {
+    font-size: 24px;
+    font-weight: 600;
+    }
+   .f_icon img {
+      margin: 0 auto;
+      margin: 10px 0;
+    }
+    .f_th {
+      margin: 0;
+      font-size: 20px;
+      text-align: center;
+    }
+    .f_text h2 {
+    margin: 0px;
+    font-size: 20px;
+    
+    line-height: 14.8px;
+   }
+    .f_text p {
+      margin: 10px !important;
+      font-size: 16px;
+      line-height: 25px;
+      text-align: center;
+    }
+    .f_3 {
+    margin: 0 27px !important;
+    }
+    .f_item {
+    margin-bottom: 15px;
+    padding: 0 15px !important;
+    padding-bottom: 15px !important;
+    }
+    .fea_p {
+    margin-bottom: 10px !important;
+   }
+  /*feature end*/
+  /*about  start*/
+    .a_img {
+      padding-right: 0px;
+     }
+    .a_women {
+      /*height: 380px;*/
+    }
+    .a_text{
+      padding: 0;
+    }
+    .a_f4 {
+    padding: 10px 18px 0;
+   }
+    .c_comh {
+      text-align: center;
+    }
+    .about_p{
+      text-align: center;
+    }
+    .a_submit {
+      margin: 0 45px;
+      padding: 10px 120px;
+    }
+    .a_ch {
+    margin: 0px !important;
+    font-size: 47px;
+    line-height: 64.8px;
+   }
+  /*about  end*/
+  /*Our_Class  start*/
+    .frame5 {
+      padding:0px;
+    }
+    .o_c {
+    padding: 0 12px;
+    }
+    .our_r {
+      margin-bottom: 0 10px 40px !important;
+    }
+     .our_bh {
+      font-size: 16px;
+      line-height: 0px;
+     }
+     .our_bh1t {
+      padding: 0 23px;
+    }
+     .our_bh1 {
+      padding: 16px 23px !important;
+     }
+    .our_bh {
+      padding: 16PX 0px !important;
+    }
+    .our_bh2t {
+      padding: 0 0px;
+   }
+    .our_bh2 {
+      margin-right: 0px;
+      padding: 16px 17px !important;
+    }
+    .oc_th {
+      padding: 16px 16px 24px;
+      font-size: 24px;
+      text-align: left;
+      line-height: 33.6px;
+     }
+    .vac_submit {
+      padding: 19px 5px !important;
+      margin:0 42px !important;
+    }
+  /*Our_Class  end*/
+  /*Testimonial start*/
+   .frame6 {
+    padding: 0px;
+   }
+   .t_text {
+    padding:0px !important;
+   }
+   .tes_item {
+    margin: 0 60px 10px !important;
+   }
+  /*Testimonial end*/
+  /*blog start*/
+   .tes_footer {
+     margin: 12px 0 0 0;
+    }
+   .b_h2 {
+     margin-bottom: 40px !important;
+    }
+   .browse_item {
+    margin:16px 0px;
+   }
+   .blog_h2 {
+    text-align: center;
+    padding: 16px 0px 24px;
+   }
+   .blog_frame3 {
+    margin: 0px 0px !important;
+   }
+   .bf_3 {
+    margin: 24px 155px !important;
+   }
+  /*blog end*/
+  /*footer top start*/
+   .ft_box {
+     margin: 40px 0;
+   }
+    .ft_h1 {
+    font-size: 28px;  
+    text-align: center;
+   }
+   .ft_box {
+    margin: 20px 0;
+   }
+   .envel {
+    margin: 16px 0 16px 8px !important;
+   }
+   .ft_email {
+    margin: 16px 0 16px 8px !important;
+    width: 302px;
+   }
+   .ft_submit {
+    padding: 10px 30px;
+   }
+  /*footer top end*/
+  /*footer start*/
+    .ff_2mar {
+    margin-right: 0px;
+   }
+   .ffc_h2 {
+    font-size: 19px;
+   }
+   .ff_box1 {
+    margin-bottom:20px !important;
+   }
+   .ff_logo {
+    text-align: center;
+   }
+   .ff_text {
+    margin:0px;
+    line-height: 28px;
+    text-align: center;
+   }
+   .ff_tl {
+    margin-right: 3.1px !important;
+   }
+  /*footer end*/
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header start*/
+     header {
+	    padding:25px 0;
+	    background-color:#F9FCFF;
+	  }
+    .logo {
+    margin:0!important;
+     }
+	   .menu ul {
+          margin: 15px 0 0 0 !important;
+          padding: 0;
+	    }
+	  .menu ul li a{
+	   	padding: 12px 0 0 20px!important;
+	   	font-size: 16px;
+	   	text-align: left;
+	   }
+
+	  .s_h {
+      margin-top: 20px !important;
+      padding-left: 20px;    
+     }
+     .s_b {
+      margin-top: 28px !important;
+     }
+     .search {
+       margin: 20px 0 0 8px !important;
+      }
+	/*header end*/
+	/*banner start*/
+     .b_img {
+       margin: 20px 0px !important;
+       padding: 0 45px;
+     }
+     .b_cont {
+       margin:115px 0 15px!important;
+       text-align: center;
+     }
+     .b_h1 {
+       font-size: 40px;
+       line-height: 36px;
+      }
+      .b_p {
+       margin: 30px 0;
+       
+       line-height: 24px;
+    }
+      .b_but {
+        margin: 30px 0;
+      }
+     .p_submit {
+       padding: 15px 190px;
+       margin: 0 0 5px 0;
+    }
+    .w_submit {
+       padding: 15px 200px;
+     }
+    .c_submit {
+      font-size: 20px;
+      font-weight: 600;
+     }
+	/*banner end*/
+  /*feature start*/
+    .c_p {
+      padding: 40px 0;
+    }
+    .cho_img {
+      
+    }
+    .c_comh {
+    font-size: 30px;
+    font-weight: 600;
+    }
+   .f_icon img {
+    margin: 0 auto;
+    margin: 25px 0;
+   }
+    .f_th {
+      margin: 0;
+      font-size: 20px;
+    }
+    .f_text h2 {
+      margin: 20px 0 0 8px;
+    }
+    .f_text p {
+      margin: 10px !important;
+      font-size: 16px;
+      line-height: 25px;
+    }
+    .f_3 {
+    margin: 0 10px !important;
+    }
+    .f_item {
+    margin-bottom: 15px;
+    padding: 0 15px !important;
+    padding-bottom: 15px !important;
+    }
+    .fea_p {
+    margin-bottom: 10px !important;
+   }
+  /*feature end*/
+  /*about  start*/
+    .a_img {
+      padding-right: 0px;
+     }
+    .a_women {
+      /*height: 380px;*/
+    }
+    .a_text{
+      padding: 0;
+    }
+    .a_f4 {
+      padding: 10px 30px 0;
+     }
+    .c_comh {
+      text-align: center;
+    }
+    .about_p{
+      text-align: center;
+      padding: 0 20px 16px !important;
+    }
+    .a_submit {
+    }
+  /*about  end*/
+  /*Our_Class  start*/
+     .oc_item {
+      margin-bottom: 12px !important;
+       padding: 0 60px 20px !important;
+     }     
+     .frame5 {
+        padding: 0 30px;
+     }
+     .oc_th {
+      padding: 16px 21px 24px;
+      font-size: 24px;
+      text-align: left;
+      line-height: 33.6px;
+     }
+     .our_bh {
+      font-size: 19px;
+      line-height: 16.8px;
+     }
+     .our_bh1 {
+      padding: 16px 13px !important;
+    }
+    .our_bh3 {
+      padding: 16px 0 !important;
+    }
+    .our_bh2 {
+      padding: 16px 14px !important;
+     }
+     .vac_submit {
+      padding: 19px 5px;
+    }
+  /*Our_Class  end*/
+  /*Testimonial start*/
+   .t_p {
+    font-size: 14px;
+   }
+   .tes_h2 {
+    text-align: left;
+   }
+   .t_text {
+    padding:0px !important;
+    font-size: 14px;
+   }
+   .tes_item {
+    margin: 0 0px 10px 0 !important;
+   }
+  /*Testimonial end*/
+  /*blog start*/
+   .b_h2 {
+    margin-bottom: 40px !important;
+   }
+   .browse_item {
+    margin:16px 50px;
+   }
+   .blog_h2 {
+    text-align: center;
+   }
+   .bf_3 {
+    margin: 24px 195px !important;
+   }
+   .blog_frame3 {
+    margin: 24px 0px !important;
+   }
+   .tes_footer {
+    margin: 12px 0 0 0;
+   }
+   .blog_frame3 {
+    margin: 0px 0px !important;
+   }
+  /*blog end*/
+  /*footer top start*/
+   .ft_box {
+     margin: 40px 0;
+   }
+    .ft_h1 {
+    font-size:32px;
+    line-height: 40.2px;
+    text-align: center;
+   }
+   .ft_box {
+    margin: 20px 0;
+   }
+   .envel {
+    margin: 16px 0 16px 8px !important;
+   }
+   .ft_email {
+    margin: 16px 0 16px 8px !important;
+    width: 302px;
+   }
+   .ft_submit {
+    padding: 10px 30px;
+   }
+  /*footer top end*/
+  /*footer start*/
+    .ff_2mar {
+    margin-right: 0px;
+   }
+   .ffc_h2 {
+    font-size: 19px;
+   }
+   .ff_text {
+    margin:0px;
+    font-size: 14px;
+    line-height: 28px;
+   }
+   .ff_tl {
+    margin-right: 3.1px !important;
+   }
+  /*footer end*/
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+ /*header start*/
+  header{
+    background-color:#F9FCFF;
+    }
+  .h_p {
+    margin:0 32px;
+  } 
+	.menu ul {
+    padding: 55px 101px 15px;
+  }
+/*header end*/
+/*banner start*/
+  .b_cont {
+    margin: 230px 0 140px 0px;
+   }
+   .b_h1 {
+    font-size: 48px;
+  }
+  .p_submit {
+    padding: 20px 23px;
+  }
+  .w_submit {
+    padding: 20px 35px;
+  }
+  .elli {
+    margin: 230px -95px 0px 32px;
+  }
+  .b_img {
+    margin: 206px 0px 116px !important;
+  }
+  .bb_img {
+    height: 666px;
+  }
+/*banner end*/
+/*feature start*/
+  .f_item {
+    padding: 0 10px !important;
+  }
+  .cho_img {
+    padding: 0 10px 16px!important;
+  }
+  .f_text h2 {
+    margin: 0 0 0 20px !important;
+    font-size: 22px !important;
+  }
+  .f_text p {
+    margin: 10px 20px !important;
+    font-size: 16px;
+    line-height: 25px;
+  }
+/*feature end*/
+/*about  start*/ 
+  .a_women {
+    height: 365px;
+  }
+  .about_p {
+    font-size: 17px;
+    line-height: 33px;
+  }
+  .a_submit {
+    margin-left: 0 !important;
+    padding: 20px 24px;
+  }
+  .a_ch {
+    margin: 24px 0 0px;
+    font-size: 60px;
+    line-height: 65.8px;
+  }
+/*about end*/
+/*Our_Class  start*/
+  .oc_item {
+    padding: 0 10px 24px !important;
+  }
+  .oc_item_s {
+    box-shadow: 0px 10px 5px 0px rgba(0, 0, 0, 0.1);
+  }
+  .frame5 {
+    padding: 0 47px ! !important;
+  }
+  .our_bh1 {
+    padding: 16px 27px 16px 29px !important;
+  }
+  .our_bh3 {
+    padding: 16PX 8px !important;
+  }
+  .our_bh2 {
+    padding: 16px 29px !important;
+  }
+  .oc_th {
+    font-size: 22px;
+    line-height: 31.6px;
+  }
+  .lit{
+    margin-right: 0 !important;
+  }
+  .octc_left ul li p, .oct_right ul li p {
+    font-size: 12px;
+    line-height: 16px;
+  }
+  .vac_submit {
+    padding: 24px 24px;
+  }
+/*Our_Class  end*/
+/*Testimonial start*/
+  .tes_item {
+   padding: 24px 0px !important;
+  }
+  .t_text {
+    padding: 10px !important;
+  }
+  .t_p {
+    font-size: 15px;
+  }
+  .rect6 {
+    padding: 7px;
+  }
+/*Testimonial end*/
+/*blog start*/
+ .bf_3 {
+    margin: 24px 45px !important;
+ }
+ .blog_frame3 {
+    margin: 24px 0px !important;
+  }
+/*blog end*/
+/*footer top start*/
+  .ft_h1 {
+    font-size: 32px;
+  }
+  .ft_email {
+    width: 203px;
+  }
+  .ft_submit {
+    padding: 12px 10px;
+  }
+/*footer top end*/
+/*foote start*/
+  .ff_2mar {
+    margin-right:0px;
+   }
+  .ff_text {
+    line-height: 30px;
+  }
+/*foote end*/
+
+
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*header start*/
+	header{
+    background-color:#F9FCFF;
+    } 
+/*header end*/
+/*banner start*/
+  .b_h1 {
+    font-size: 57px;
+  }
+  .bb_img {
+    height: 666px;
+  }
+  .w_submit {
+    padding: 20px 55px;
+  }
+  .p_submit {
+    padding: 20px 45px;
+   }
+/*banner end*/
+/*feature start*/
+   .f_text p {
+    font-size: 18px;
+  }
+   .cho_img {
+     padding: 0 35px 16px;
+   }
+/*feature end*/
+/*about  start*/
+  .about_p {
+    margin-right: 12px;
+  }
+/*about end*/
+/*blog start*/  
+  .blog_frame3 {
+    margin: 24px 75px !important;
+  }
+/*blog start*/
+/*footer top start*/
+  .ft_email { 
+    width: 198px;
+  }
+/*footer top end*/  
+}
+
+/*Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+/*header start*/
+	header{
+    background-color:#F9FCFF;
+    }
+	.menu ul {
+    padding: 55px 281px 15px;
+  }
+/*header end*/
+/*banner start*/
+  .p_submit {
+    padding: 24px 68px;
+  }
+  .w_submit {
+    padding: 24px 80px;
+  }
+/*banner end*/
+/*feature start*/
+   .cho_img {
+     padding: 0 70px 16px;
+  }
+/*feature end*/
+/*footer top start*/
+  .ft_email {
+    width: 266px;
+  }
+/*footer top end*/  
+}
